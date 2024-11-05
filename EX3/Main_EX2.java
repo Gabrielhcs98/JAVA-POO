@@ -1,4 +1,4 @@
-public class Main {
+public class Main_EX2 {
     public static void main(String[] args) {
         ControleRemote c = new ControleRemote();
         c.ligar();
